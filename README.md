@@ -2,9 +2,12 @@
 开始学习springQAQ
 
 ####################################
-声明：非原创
-参考：https://github.com/code4craft/tiny-spring
-原创作者：code4craft
+
+- 声明：非原创
+
+- 参考：https://github.com/code4craft/tiny-spring
+
+- 原创作者：code4craft
 
 ####################################
 maven项目
@@ -13,3 +16,4 @@ maven项目
 jdk8
 
 ####################################
+......
