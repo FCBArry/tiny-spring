@@ -28,7 +28,7 @@
         <property name="advice" ref="timeInterceptor">
         </property>
         <!-- expression may be wrong-->
-        <property name="expression" value="execution(* *.helloWorld(..))">
+        <property name="expression" value="execution(* *.*(..))">
         </property>
     </bean>
 
